@@ -63,5 +63,5 @@ for i in range(len(y_pred)):
     accuracy += 1
 print(f"Accuracy = {accuracy / len(y_pred)}")
 
-!pip install urllib2
+
 
